@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Sahana-Chaudhary/SQL/tree/master/0177-nth-highest-salary) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Sahana-Chaudhary/SQL/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
