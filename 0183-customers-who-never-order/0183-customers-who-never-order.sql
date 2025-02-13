@@ -1,7 +1,4 @@
 /* Write your PL/SQL query statement below */
-SELECT name as Customers
-from Customers
-where id not in (
-    select customerId
-    from Orders
-);
+SELECT name AS Customers
+FROM Customers
+WHERE id NOT IN (SELECT customerId FROM Orders);
