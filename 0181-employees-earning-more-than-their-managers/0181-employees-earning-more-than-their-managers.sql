@@ -1,5 +1,6 @@
 /* Write your PL/SQL query statement below */
-SELECT emp.name as "Employee" FROM employee emp
-INNER JOIN employee mgr
-ON emp.managerid = mgr.id
-WHERE mgr.salary < emp.salary;
+SELECT emp.name AS Employee
+FROM Employee emp
+JOIN Employee emp2 
+ON emp.managerId = emp2.id
+WHERE emp.salary > emp2.salary;
