@@ -11,5 +11,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Sahana-Chaudhary/SQL/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Sahana-Chaudhary/SQL/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Sahana-Chaudhary/SQL/tree/master/0197-rising-temperature) |
+| [0595-big-countries](https://github.com/Sahana-Chaudhary/SQL/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sahana-Chaudhary/SQL/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
