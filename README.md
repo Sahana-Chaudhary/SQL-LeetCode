@@ -13,5 +13,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Sahana-Chaudhary/SQL/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Sahana-Chaudhary/SQL/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Sahana-Chaudhary/SQL/tree/master/0620-not-boring-movies) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sahana-Chaudhary/SQL/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sahana-Chaudhary/SQL/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
