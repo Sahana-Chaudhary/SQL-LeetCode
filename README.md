@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-sales-analysis-iii](https://github.com/Sahana-Chaudhary/SQL/tree/master/1174-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Sahana-Chaudhary/SQL/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Sahana-Chaudhary/SQL/tree/master/1258-article-views-i) |
+| [1301-reformat-department-table](https://github.com/Sahana-Chaudhary/SQL/tree/master/1301-reformat-department-table) |
 | [1541-top-travellers](https://github.com/Sahana-Chaudhary/SQL/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/Sahana-Chaudhary/SQL/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Sahana-Chaudhary/SQL/tree/master/1664-find-users-with-valid-e-mails) |
