@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/Sahana-Chaudhary/SQL/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/Sahana-Chaudhary/SQL/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Sahana-Chaudhary/SQL/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/Sahana-Chaudhary/SQL/tree/master/1837-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sahana-Chaudhary/SQL/tree/master/1908-recyclable-and-low-fat-products) |
 | [2110-employees-with-missing-information](https://github.com/Sahana-Chaudhary/SQL/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Sahana-Chaudhary/SQL/tree/master/2127-employees-whose-manager-left-the-company) |
