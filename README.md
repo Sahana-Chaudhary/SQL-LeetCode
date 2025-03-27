@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/Sahana-Chaudhary/SQL/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/Sahana-Chaudhary/SQL/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/Sahana-Chaudhary/SQL/tree/master/1948-rearrange-products-table) |
+| [2024-calculate-special-bonus](https://github.com/Sahana-Chaudhary/SQL/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/Sahana-Chaudhary/SQL/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Sahana-Chaudhary/SQL/tree/master/2087-confirmation-rate) |
 | [2110-employees-with-missing-information](https://github.com/Sahana-Chaudhary/SQL/tree/master/2110-employees-with-missing-information) |
